@@ -1,6 +1,7 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Live Coding Bedrock
+A good starting point for live coding with AWS Bedrock
+
+
 
 ## References
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
